@@ -1,4 +1,4 @@
-# Jay-Prakrit
+# Jay-Prakrit: Prakrit Logo: A Symbol of Excellence
 
 Enhance your Prakrit-related  endeavours with a strikingly beautiful logo that embodies the richness and depth of Prakrit heritage.
 
