@@ -1,0 +1,20 @@
+{
+  "extraKnownMarketplaces": {
+    "i-have-adhd": {
+      "source": {
+        "source": "github",
+        "repo": "ayghri/i-have-adhd"
+      }
+    },
+    "hyperframes": {
+      "source": {
+        "source": "github",
+        "repo": "heygen-com/hyperframes"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "i-have-adhd@i-have-adhd": true,
+    "hyperframes@hyperframes": true
+  }
+}
